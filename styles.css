@@ -347,4 +347,27 @@ footer a:hover {
     .nav-links a {
         font-size: 1rem;
     }
+
+    .intro-box, .card, .contact .container {
+        padding: 20px;
+        margin: 10px auto;
+        width: 90%;
+    }
+
+    .card img {
+        height: 150px;
+    }
+
+    .card-content h3 {
+        font-size: 1.2rem;
+    }
+
+    .card-content p {
+        font-size: 0.9rem;
+    }
+
+    .card-content a {
+        padding: 8px 16px;
+        font-size: 0.9rem;
+    }
 }
